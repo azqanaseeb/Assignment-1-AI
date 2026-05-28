@@ -1,4 +1,3 @@
-# Assignment-1-AI
 # Assignment 1 — Artificial Intelligence
 **Student:** Azqa Naseeb  
 **Course:** Artificial Intelligence — 5th Semester  
