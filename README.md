@@ -25,7 +25,7 @@
 - System prompt: Expert coding assistant
 
 ### Setup
-1. Clone the repo
+1. Clone the repository
 2. Create `.env` file and add `GROQ_API_KEY=your_key`
 3. Install dependencies: `pip install -r requirements.txt`
 4. Run backend: `cd backend && python app.py`
