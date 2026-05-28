@@ -219,7 +219,7 @@ with chat_placeholder:
 
 st.markdown("---")
 
-# ✅ st.chat_input — Enter key AND button dono se submit hoga
+# ✅ st.chat_input — Submit using both Enter key and Send button
 user_input = st.chat_input("Ask me anything…")
 
 if user_input and user_input.strip():
